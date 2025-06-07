@@ -4,7 +4,6 @@
 
 Convert your VRoid avatars into Assetto Corsa driver models with zero technical knowledge. The first tool to bridge VTuber culture and sim racing.
 
-![VRoid2AC Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=VRoid2AC+Demo+Coming+Soon)
 
 ## 🔥 Why VRoid2AC?
 
